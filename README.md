@@ -1,5 +1,5 @@
 ## Hava_durumu.py
 
-#Selam ben Bedirhan
+Selam ben Bedirhan
 
-#insta: bedirhanekinci_
+insta: bedirhanekinci_
